@@ -1,0 +1,41 @@
+{
+  "name": "archiver-json",
+  "version": "0.0.1",
+  "description": "a json plugin for archiver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ctalkington@github.com/archiverjs/archiver-json.git"
+  },
+  "author": {
+    "name": "Chris Talkington",
+    "url": "http://christalkington.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archiverjs/archiver-json/issues"
+  },
+  "homepage": "https://github.com/archiverjs/archiver-json#readme",
+  "keywords": [
+    "archiver",
+    "archiverplugin",
+    "json"
+  ],
+  "files": [
+    "lib"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+    "through2": "~0.6.1"
+  },
+  "devDependencies": {
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
