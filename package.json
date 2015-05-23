@@ -25,6 +25,7 @@
     "json"
   ],
   "files": [
+    "index.js",
     "lib"
   ],
   "engines": {
