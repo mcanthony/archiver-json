@@ -1,6 +1,6 @@
 {
   "name": "archiver-json",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "a json plugin for archiver",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://ctalkington@github.com/archiverjs/archiver-json.git"
+    "url": "https://github.com/archiverjs/archiver-json.git"
   },
   "author": {
     "name": "Chris Talkington",
