@@ -1,4 +1,4 @@
-# archiver-json v0.1.0 [![Build Status](https://travis-ci.org/archiverjs/archiver-json.svg?branch=master)](https://travis-ci.org/archiverjs/archiver-json)
+# archiver-json v0.1.1 [![Build Status](https://travis-ci.org/archiverjs/archiver-json.svg?branch=master)](https://travis-ci.org/archiverjs/archiver-json)
 
 > json [archiver](https://github.com/archiverjs/node-archiver) plugin
 

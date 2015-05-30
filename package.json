@@ -1,6 +1,6 @@
 {
   "name": "archiver-json",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a json plugin for archiver",
   "main": "index.js",
   "scripts": {
